@@ -1,4 +1,4 @@
-# Security-Pad
+# Multi-user-encrypted-pad
 
 - Implementation of a Security-Pad using C++
 - It has multiuser system
