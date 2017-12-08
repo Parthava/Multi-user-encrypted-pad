@@ -225,7 +225,7 @@ void open()
 		b--;
 	} // reverse mechanism of fname ends
 	// cout<<fname; //for testing
-	if(strcmp(nspp,ext)==0) // condition checking for only .ltp file
+	if(strcmp(nspp,ext)==0) // condition checking for only .spp file
 	{
 		ifstream infile(fname);
 		if(infile)
